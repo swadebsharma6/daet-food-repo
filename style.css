@@ -5,6 +5,9 @@
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 30px;
+}
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -27,4 +30,9 @@ body{
     color: white;
     font-weight: 700;
     border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
