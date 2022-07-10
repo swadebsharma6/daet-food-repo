@@ -51,3 +51,19 @@ body{
     margin-right: 5%;
     padding-left: 10px;
 }
+.footer{
+    background-color: black;
+    padding: 20px;
+}
+.footer ,h3,p{
+    text-align: center;
+   
+}
+#red{
+    color: red;
+    font-size: 25px;
+    font-family: cursive;
+}
+#white{
+    color:white;
+}
