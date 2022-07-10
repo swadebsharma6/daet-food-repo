@@ -36,3 +36,18 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 }
+.div-flexible{
+    display: flex;
+    margin-bottom: 60px;
+    
+
+}
+.div-flexible ,h2 ,p{
+    text-align: center;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+}
